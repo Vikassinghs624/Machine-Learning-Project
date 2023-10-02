@@ -39,3 +39,7 @@ To stop the any container
 docker stop <container_id>
 '''
 
+To install all libraries for your project.
+'''
+python setup.py install
+'''
